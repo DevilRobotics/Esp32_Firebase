@@ -95,8 +95,8 @@ Troubleshooting:
 
 Future Improvements:  
 
-  •	Image Resolution and Quality: Adjust the camera settings for higher resolution or different compression settings.
-  •	Image Capture on Motion Detection: Implement a motion detection system to capture images when motion is detected. 
+  •	Image Resolution and Quality: Adjust the camera settings for higher resolution or different compression settings.  
+  •	Image Capture on Motion Detection: Implement a motion detection system to capture images when motion is detected.  
   •	Web Dashboard: Build a simple web interface to display the uploaded images from Firebase.
   
 
